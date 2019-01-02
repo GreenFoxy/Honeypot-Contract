@@ -1,5 +1,5 @@
 
-Some honeypot smart contracts in blockchain.
+Some honeypot-contracts in blockchain.
 ==========
 
 |  | Address | Note |
